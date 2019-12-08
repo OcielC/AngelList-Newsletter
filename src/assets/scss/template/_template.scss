@@ -1,0 +1,175 @@
+html,
+body {
+  color: #162040;
+}
+
+.header {
+  .angLogo {
+    &>tbody>tr>th {
+      padding-top: 0px !important;
+      padding-bottom: 5px !important;
+      padding-right: 0px !important;
+      padding-left: 0px !important;
+    }
+
+    &>tbody>tr>th>table>tbody>tr>th>a>img {
+      padding-top: 20px;
+      padding-bottom: 5px;
+      padding-right: 0;
+      padding-left: 0;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 140px;
+    }
+  }
+
+  .viewBtn {
+
+    &>tbody>tr>th {
+      padding-bottom: 5px;
+      padding-right: 0px !important;
+      padding-top: 0px !important;
+    }
+
+    &>tbody>tr>th>table>tbody>tr>th>a>table>tbody>tr>td>table>tbody>tr>td {
+      border: 1px solid #999999;
+      background-color: #ffffff;
+      color: #999999;
+      padding: 10px;
+      font-size: 12px;
+      border-radius: 5px;
+    }
+
+    button {
+      border: 1px solid #999999;
+      background-color: #ffffff;
+      color: #999999;
+      padding: 10px;
+      font-size: 12px;
+      border-radius: 5px;
+    }
+  }
+}
+
+.body {
+  &>tbody>tr>td>center>table>tbody>tr>td>table>tbody>tr>th {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    padding-top: 34px;
+    padding-bottom: 34px;
+  }
+
+  .msftNews {
+    &>tbody>tr>th {
+      padding-right: 0px !important;
+      padding-left: 0px !important;
+      padding-bottom: 0px;
+      padding-top: 0px !important;
+      border-top-right-radius: 5px;
+    }
+
+    &>tbody>tr>th>table>tbody>tr>th>a>img {
+      border-top-right-radius: 5px;
+      border-top-left-radius: 5px;
+    }
+  }
+
+  .row {
+    font-size: 16px;
+    hyphens: none;
+
+    &>tbody>tr>th>table>tbody>tr>th>p {
+      margin-bottom: 0px !important;
+    }
+
+    &>tbody>tr>th>table>tbody>tr>th>p>a {
+      color: #1155cc;
+      text-decoration: underline;
+    }
+  }
+
+  .sub-body {
+    &>tbody>tr>th {
+      padding-top: 0px !important;
+      padding-bottom: 0px !important;
+      border-top: 3px solid #0f6fff;
+    }
+
+    &>tbody>tr>th>table>tbody>tr>th>h2 {
+      font-size: 24px;
+      font-weight: bold;
+      margin-top: 19.92px !important;
+      margin-bottom: 19.92px !important;
+    }
+  }
+
+  .howto {
+    &>tbody>tr>th {
+      padding-top: 0px !important;
+      padding-bottom: 0px !important;
+      padding-right: 0px !important;
+      padding-left: 0px !important;
+    }
+  }
+
+  .profile {
+    &>tbody>tr>th>table>tbody>tr>th>p {
+      margin-bottom: 0px !important;
+    }
+  }
+
+  .learnMore {
+
+    &>tbody {
+      border-bottom: 3px solid #0f6fff;
+    }
+
+    &>tbody>tr>th {
+      padding-top: 0px !important;
+      padding-right: 0px !important;
+      padding-left: 0px !important;
+    }
+
+    &>tbody>tr>th>table>tbody>tr>th>a>table>tbody>tr>td>table>tbody>tr>td {
+      padding-top: 16px;
+      padding-bottom: 16px;
+      padding-left: 56px;
+      padding-right: 56px;
+      background-color: #0f6fff;
+      background: #0f6fff;
+      font-size: 15px;
+      text-align: center;
+      border: none;
+    }
+  }
+}
+
+.startups {
+  &>tbody>tr>th>table>tbody>tr>th>img {
+    width: 30px;
+  }
+}
+
+.footer {
+  background: #002265;
+  background-color: #002265;
+
+  &>tbody>tr>th {
+    padding-top: 35px !important;
+    padding-bottom: 17px !important;
+    padding-right: 34px !important;
+    padding-left: 34px !important;
+  }
+
+  &>tbody>tr>th>table>tbody>tr>th>p {
+    color: #ffffff;
+    font-size: 10px;
+    text-align: center;
+  }
+
+  a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+}

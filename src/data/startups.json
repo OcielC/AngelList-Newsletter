@@ -1,0 +1,53 @@
+{
+  "title": "Hot startups hiring now",
+  "image": "/assets/img/aList/fireEmoji.png",
+  "companies": [{
+      "logo": "/assets/img/aList/fountainLogo.jpg",
+      "name": "Fountain",
+      "description": "- All-in-one hiring automation software for the new service economy. Start exploring",
+      "jobs": "9 jobs.",
+      "link": "#",
+      "exploring": "Start exploring"
+    },
+    {
+      "logo": "/assets/img/aList/harrysLogo.jpg",
+      "name": "Harry's",
+      "description": "- Meet the shaving company that's fixing shaving. Start exploring",
+      "jobs": "8 jobs.",
+      "link": "#",
+      "exploring": "Start exploring"
+    },
+    {
+      "logo": "/assets/img/aList/loanSnapLogo.jpg",
+      "name": "LoanSnap",
+      "description": "- World's first smart loan technology that uses AI and machine learning. Start exploring",
+      "jobs": "9 jobs.",
+      "link": "#",
+      "exploring": "Start exploring"
+    },
+    {
+      "logo": "/assets/img/aList/mCLogo.jpg",
+      "name": "Mentor Collective",
+      "description": "- Helping schools deliver 1-on-1 mentorship to all their students. Start exploring",
+      "jobs": "4 jobs.",
+      "link": "#",
+      "exploring": "Start exploring"
+    },
+    {
+      "logo": "/assets/img/aList/nextRollLogo.jpg",
+      "name": "NextRoll",
+      "description": "- Marketing and data technology powering growth. Start exploring",
+      "jobs": "11 jobs.",
+      "link": "#",
+      "exploring": "Start exploring"
+    },
+    {
+      "logo": "/assets/img/aList/drawboticsLogo.jpg",
+      "name": "Drawbotics",
+      "description": "- Redifining the way people buy & sell homes through marketing innovation & technology. Start exploring",
+      "jobs": "12 jobs.",
+      "link": "#",
+      "exploring": "Start exploring"
+    }
+  ]
+}
